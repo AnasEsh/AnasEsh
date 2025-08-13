@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anasesh&label=Profile%20views&color=0e75b6&style=flat" alt="anasesh" /> </p>
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently learning **∞**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio.bio/founder](https://my-portfolio.bio/founder)
 
